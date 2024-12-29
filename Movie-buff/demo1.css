@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    gap: 10px; /* Optional: Adds space between the boxes */
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
